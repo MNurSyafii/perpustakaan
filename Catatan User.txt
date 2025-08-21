@@ -1,0 +1,13 @@
+Role Admin
+
+Email	: admin@gmail.com
+Pass	: admin12345
+
+Role Petugas
+
+Email	: petugas@gmail.com
+Pass	: petugas12345
+
+Role Peminjam
+Email	: muhammadnursyafii4@gmail.com
+Pass	: lindu12345
